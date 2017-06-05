@@ -1,5 +1,5 @@
 {
-    "name": "iuravic/duktig-twig-renderer-adapter",
+    "name": "iuravic/duktig-twig-adapter",
     "type": "library",
     "authors": [
         {"name": "Ivan Uravić", "email": "iuravic@gmail.com"}
