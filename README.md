@@ -1,1 +1,0 @@
-# duktig-twig-renderer-adapter
