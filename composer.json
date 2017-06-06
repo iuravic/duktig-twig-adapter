@@ -1,10 +1,25 @@
 {
     "name": "iuravic/duktig-twig-adapter",
     "type": "library",
-    "authors": [
-        {"name": "Ivan Uravić", "email": "iuravic@gmail.com"}
+    "description": "Twig renderer adapter for Duktig MVC micro web framework",
+    "keywords": [
+        "Duktig",
+        "framework",
+        "adapter",
+        "Twig",
+        "template",
+        "renderer"
     ],
-    "license": ["MIT"],
+    "homepage": "https://github.com/iuravic/duktig-twig-adapter",
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "Ivan Uravić",
+            "email": "iuravic@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
