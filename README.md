@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/iuravic/duktig-twig-adapter.svg?branch=master)](https://travis-ci.org/iuravic/duktig-twig-adapter)
+[![Build Status](https://travis-ci.org/iuravic/duktig-twig-adapter.svg?branch=master)](https://travis-ci.org/iuravic/duktig-twig-adapter) [![Coverage Status](https://coveralls.io/repos/github/iuravic/duktig-twig-adapter/badge.svg?branch=master)](https://coveralls.io/github/iuravic/duktig-twig-adapter?branch=master)
 
 # duktig-twig-adapter
 
